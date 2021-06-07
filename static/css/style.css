@@ -1,0 +1,9 @@
+body {
+
+    color: #070707;
+  }
+  .jumbotron {
+    background-image: url("../images/staphylococcus.jpg");
+    background-size: cover;
+    
+  }
